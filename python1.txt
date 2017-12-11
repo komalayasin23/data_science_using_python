@@ -1,0 +1,111 @@
+Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
+
+    Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
+
+    Python is Interactive − You can actually sit at a Python prompt and interact with the interpreter directly to write your programs.
+
+    Python is Object-Oriented − Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
+
+    Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
+
+History of Python:
+
+Python was developed by Guido van Rossum in the late eighties and early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.
+
+Python is derived from many other languages, including ABC, Modula-3, C, C++, Algol-68, SmallTalk, and Unix shell and other scripting languages.
+
+Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).
+
+Python is now maintained by a core development team at the institute, although Guido van Rossum still holds a vital role in directing its progress.
+Python Features
+
+Python's features include −
+
+    Easy-to-learn − Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
+
+    Easy-to-read − Python code is more clearly defined and visible to the eyes.
+
+    Easy-to-maintain − Python's source code is fairly easy-to-maintain.
+
+    A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
+
+    Interactive Mode − Python has support for an interactive mode which allows interactive testing and debugging of snippets of code.
+
+    Portable − Python can run on a wide variety of hardware platforms and has the same interface on all platforms.
+
+    Extendable − You can add low-level modules to the Python interpreter. These modules enable programmers to add to or customize their tools to be more efficient.
+
+    Databases − Python provides interfaces to all major commercial databases.
+
+    GUI Programming − Python supports GUI applications that can be created and ported to many system calls, libraries and windows systems, such as Windows MFC, Macintosh, and the X Window system of Unix.
+    
+
+    Scalable − Python provides a better structure and support for large programs than shell scripting.
+
+Apart from the above-mentioned features, Python has a big list of good features, few are listed below −
+
+    It supports functional and structured programming methods as well as OOP.
+
+    It can be used as a scripting language or can be compiled to byte-code for building large applications.
+
+    It provides very high-level dynamic data types and supports dynamic type checking.
+
+    IT supports automatic garbage collection.
+
+    It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
+    In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on. There may be a situation when you need to execute a block of code several number of times.
+
+Programming languages provide various control structures that allow for more complicated execution paths.
+
+A loop statement allows us to execute a statement or group of statements multiple times. The following diagram illustrates a loop statement −
+Loop Architecture
+Python programming language provides following types of loops to handle looping requirements.
+Sr.No. 	Loop Type & Description
+1 	while loop
+
+Repeats a statement or group of statements while a given condition is TRUE. It tests the condition before executing the loop body.
+2 	for loop
+
+Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.
+3 	nested loops
+
+You can use one or more loop inside any another while, for or do..while loop.
+Loop Control Statements
+
+Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.
+
+Python supports the following control statements. Click the following links to check their detail.
+Sr.No. 	Control Statement & Description
+1 	break statement
+
+Terminates the loop statement and transfers execution to the statement immediately following the loop.
+2 	continue statement
+
+Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.
+3 	pass statement
+
+The pass statement in Python is used when a statement is required syntactically but you do not want any command or code to execute.
+Advantages or Benefits of Python:
+
+The Python language has diversified application in the software development companies such as in gaming, web frameworks and applications, language development, prototyping, graphic design applications, etc. This provides the language a higher plethora over other programming languages used in the industry. Some of its advantages are-
+
+    Extensive Support Libraries
+
+It provides large standard libraries that include the areas like string operations, Internet, web service tools, operating system interfaces and protocols. Most of the highly used programming tasks are already scripted into it that limits the length of the codes to be written in Python.
+
+    Integration Feature
+
+Python integrates the Enterprise Application Integration that makes it easy to develop Web services by invoking COM or COBRA components. It has powerful control capabilities as it calls directly through C, C++ or Java via Jython. Python also processes XML and other markup languages as it can run on all modern operating systems through same byte code.
+
+    Improved Programmer’s Productivity
+
+The language has extensive support libraries and clean object-oriented designs that increase two to ten fold of programmer’s productivity while using the languages like Java, VB, Perl, C, C++ and C#.
+
+    Productivity
+    Limitations or Disadvantages of Python
+
+Python has varied advantageous features, and programmers prefer this language to other programming languages because it is easy to learn and code too. However, this language has still not made its place in some computing arenas that includes Enterprise Development Shops. Therefore, this language may not solve some of the enterprise solutions, and limitations include-
+
+    Difficulty in Using Other Languages
+
+The Python lovers become so accustomed to its features and its extensive libraries, so they face problem in learning or working on other programming languages. Python experts may see the declaring of cast “values” or variable “types”, syntactic requirements of adding curly braces or semi colons as an onerous task.
